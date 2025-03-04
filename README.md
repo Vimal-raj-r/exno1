@@ -1,5 +1,7 @@
+# NAME: VIMALRAJ R
+# REG NO: 212223040242
 # Exno:1
-Data Cleaning Process
+## Data Cleaning Process
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
