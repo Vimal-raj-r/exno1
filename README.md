@@ -29,37 +29,37 @@ df
 ````
 
 ![image](https://github.com/user-attachments/assets/30a7d399-2fcc-4722-959a-4d21ccd0e272)
-py
+```py
 df.head()
-
+```
 ![image](https://github.com/user-attachments/assets/0be6426f-a466-4730-b7a4-39bb5aed2321)
 
-py
+```py
 df.tail()
-
+```
 ![image](https://github.com/user-attachments/assets/5cef8819-dd4b-417d-ad2b-4958f894e4b3)
 
-py
+```py
 df.isnull().sum()
-
+```
 ![image](https://github.com/user-attachments/assets/8e9c9dac-51e7-4ddb-8503-2a32e4c43dad)
-py
+```py
 df.isnull().any()
-
+```
 ![image](https://github.com/user-attachments/assets/5f9073e2-61a8-4d6d-8ba2-29a88e6f39ca)
-py
+```py
 df.dropna()
-
+```
 ![image](https://github.com/user-attachments/assets/3ca3202b-6d32-4d68-9d13-937aaba50a7b)
 
-py
+```py
 df.fillna(1)
-
+```
 ![image](https://github.com/user-attachments/assets/a92d820a-0e8b-48c4-ba7b-119803169157)
 
-py
+```py
 df.fillna(method="ffill")
-
+```
 ![image](https://github.com/user-attachments/assets/f28bd29f-4782-4756-8b9f-e483e99f9d56)
 
 ```py
